@@ -146,6 +146,6 @@ Among all the models, **Logistic Regression** achieved the best overall performa
 
 ## 👨‍💻 Author
 
-**Kashish Chauhan**
+**Shashi Bala**
 
 If you found this project useful, feel free to ⭐ this repository.
